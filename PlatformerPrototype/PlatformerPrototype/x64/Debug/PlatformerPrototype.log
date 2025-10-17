@@ -1,5 +1,0 @@
-﻿  main.c
-C:\Users\Adrian\source\repos\PlatformerPrototype\PlatformerPrototype\main.c(99,7): warning C4013: 'checkCollision' undefined; assuming extern returning int
-C:\Users\Adrian\source\repos\PlatformerPrototype\PlatformerPrototype\main.c(474,5): warning C4026: function declared with formal parameter list
-C:\Users\Adrian\source\repos\PlatformerPrototype\PlatformerPrototype\main.c(477,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-  PlatformerPrototype.vcxproj -> C:\Users\Adrian\source\repos\PlatformerPrototype\x64\Debug\PlatformerPrototype.exe
