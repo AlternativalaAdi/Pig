@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\Adrian\source\repos\PlatformerPrototype\PlatformerPrototype\main.c(27,5): warning C4026: function declared with formal parameter list
+C:\Users\Adrian\source\repos\PlatformerPrototype\PlatformerPrototype\main.c(32,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Adrian\source\repos\PlatformerPrototype\PlatformerPrototype\main.c(145,5): warning C4013: 'handleMenu' undefined; assuming extern returning int
+C:\Users\Adrian\source\repos\PlatformerPrototype\PlatformerPrototype\main.c(150,5): warning C4013: 'handleSkins' undefined; assuming extern returning int
+C:\Users\Adrian\source\repos\PlatformerPrototype\PlatformerPrototype\main.c(157,4): warning C4013: 'handleInput' undefined; assuming extern returning int
+C:\Users\Adrian\source\repos\PlatformerPrototype\PlatformerPrototype\main.c(158,29): warning C4013: 'handleInput2' undefined; assuming extern returning int
+C:\Users\Adrian\source\repos\PlatformerPrototype\PlatformerPrototype\main.c(202,31): warning C4133: 'function': incompatible types - from 'SDL_Texture *' to 'SDL_Rect *'
+  PlatformerPrototype.vcxproj -> C:\Users\Adrian\source\repos\PlatformerPrototype\x64\Debug\PlatformerPrototype.exe

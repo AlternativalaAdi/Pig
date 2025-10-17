@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\render.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\render.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\collisions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\collisions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\structures.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\structures.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\structures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\structures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\objects.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\objects.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\objects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\objects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\keyboard.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\keyboard.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\ttf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\ttf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\collisions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\collisions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\srcRects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\srcRects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\srcRects.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\srcRects.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\ttf.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2577DD1F-1083-4B14-AF2D-720CD3AFAD1B}|PlatformerPrototype\\PlatformerPrototype.vcxproj|solutionrelative:PlatformerPrototype\\ttf.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "objects.h",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\objects.h",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\objects.h",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\objects.h",
+              "RelativeToolTip": "PlatformerPrototype\\objects.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T17:53:28.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "objects.c",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\objects.c",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\objects.c",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\objects.c",
+              "RelativeToolTip": "PlatformerPrototype\\objects.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T17:53:21.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "keyboard.h",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\keyboard.h",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\keyboard.h",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\keyboard.h",
+              "RelativeToolTip": "PlatformerPrototype\\keyboard.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T17:45:28.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "keyboard.c",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\keyboard.c",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\keyboard.c",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\keyboard.c",
+              "RelativeToolTip": "PlatformerPrototype\\keyboard.c",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T17:45:18.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "collisions.h",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\collisions.h",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\collisions.h",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\collisions.h",
+              "RelativeToolTip": "PlatformerPrototype\\collisions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T17:00:20.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "collisions.c",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\collisions.c",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\collisions.c",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\collisions.c",
+              "RelativeToolTip": "PlatformerPrototype\\collisions.c",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T17:00:12.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ttf.h",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\ttf.h",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\ttf.h",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\ttf.h",
+              "RelativeToolTip": "PlatformerPrototype\\ttf.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T16:12:51.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ttf.c",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\ttf.c",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\ttf.c",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\ttf.c",
+              "RelativeToolTip": "PlatformerPrototype\\ttf.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T16:12:42.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "structures.c",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\structures.c",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\structures.c",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\structures.c",
+              "RelativeToolTip": "PlatformerPrototype\\structures.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T14:39:26.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "render.h",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\render.h",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\render.h",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\render.h",
+              "RelativeToolTip": "PlatformerPrototype\\render.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-14T14:36:11.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "render.c",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\render.c",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\render.c",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\render.c",
+              "RelativeToolTip": "PlatformerPrototype\\render.c",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAgwMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-14T14:36:02.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\main.c",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\main.c",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\main.c",
+              "RelativeToolTip": "PlatformerPrototype\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-05T14:58:46.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "structures.h",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\structures.h",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\structures.h",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\structures.h",
+              "RelativeToolTip": "PlatformerPrototype\\structures.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T20:46:48.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "srcRects.c",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\srcRects.c",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\srcRects.c",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\srcRects.c",
+              "RelativeToolTip": "PlatformerPrototype\\srcRects.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-26T19:01:04.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "srcRects.h",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\srcRects.h",
+              "RelativeDocumentMoniker": "PlatformerPrototype\\srcRects.h",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\PlatformerPrototype\\PlatformerPrototype\\srcRects.h",
+              "RelativeToolTip": "PlatformerPrototype\\srcRects.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T18:54:18.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
